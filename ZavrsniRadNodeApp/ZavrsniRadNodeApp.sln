@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ZavrsniRadNodeApp", "ZavrsniRadNodeApp\ZavrsniRadNodeApp.njsproj", "{83429B0B-722B-4A30-8B90-5F0E6B196157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83429B0B-722B-4A30-8B90-5F0E6B196157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83429B0B-722B-4A30-8B90-5F0E6B196157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83429B0B-722B-4A30-8B90-5F0E6B196157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83429B0B-722B-4A30-8B90-5F0E6B196157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFABDF30-2C91-4744-8776-52E8163BA6DC}
+	EndGlobalSection
+EndGlobal

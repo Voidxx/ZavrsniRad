@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@node-steam/vdf": "^2.2.0",
+    "dota2-gsi": "^1.0.2",
+    "fs-extra": "^10.1.0",
+    "serialport": "^10.4.0",
+    "winreg": "^1.2.4"
+  }
+}

@@ -1,0 +1,3 @@
+C:\Users\Leon\Desktop\ZAVRSNI RAD FINAL\ZavrsniRadNodeApp\ZavrsniRadNodeApp\obj\Release\ZavrsniRadNodeApp.njsproj.AssemblyReference.cache
+C:\Users\Leon\Desktop\ZAVRSNI RAD FINAL\ZavrsniRadNodeApp\ZavrsniRadNodeApp\obj\Release\ZavrsniRadNodeApp.njsproj.CoreCompileInputs.cache
+C:\Users\Leon\Desktop\ZAVRSNI RAD FINAL\ZavrsniRadNodeApp\ZavrsniRadNodeApp\bin\Microsoft.NodejsTools.WebRole.dll

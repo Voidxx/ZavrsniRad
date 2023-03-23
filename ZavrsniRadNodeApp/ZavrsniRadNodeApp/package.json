@@ -1,0 +1,15 @@
+{
+  "name": "zavrsni-rad-node-app",
+  "version": "0.0.0",
+  "description": "ZavrsniRadNodeApp",
+  "main": "app.js",
+  "bin": "app.js",
+  "pkg": {
+    "assets": [
+      "../node_modules/@serialport/bindings-cpp/prebuilds"
+    ]
+  },
+  "dependencies": {
+    "promise": "^8.1.0"
+  }
+}

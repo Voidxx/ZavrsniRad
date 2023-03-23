@@ -1,0 +1,9 @@
+C:\Users\Leon\source\repos\ZavrsniRadNodeApp\ZavrsniRadNodeApp\obj\Debug\ZavrsniRadNodeApp.njsproj.AssemblyReference.cache
+C:\Users\Leon\source\repos\ZavrsniRadNodeApp\ZavrsniRadNodeApp\obj\Debug\ZavrsniRadNodeApp.njsproj.CoreCompileInputs.cache
+C:\Users\Leon\source\repos\ZavrsniRadNodeApp\ZavrsniRadNodeApp\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\petra\Videos\Desktop\ZavrsniRadNodeApp\ZavrsniRadNodeApp\obj\Debug\ZavrsniRadNodeApp.njsproj.AssemblyReference.cache
+C:\Users\petra\Videos\Desktop\ZavrsniRadNodeApp\ZavrsniRadNodeApp\obj\Debug\ZavrsniRadNodeApp.njsproj.CoreCompileInputs.cache
+C:\Users\petra\Videos\Desktop\ZavrsniRadNodeApp\ZavrsniRadNodeApp\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Leon\Desktop\ZAVRSNI RAD FINAL\ZavrsniRadNodeApp\ZavrsniRadNodeApp\obj\Debug\ZavrsniRadNodeApp.njsproj.AssemblyReference.cache
+C:\Users\Leon\Desktop\ZAVRSNI RAD FINAL\ZavrsniRadNodeApp\ZavrsniRadNodeApp\obj\Debug\ZavrsniRadNodeApp.njsproj.CoreCompileInputs.cache
+C:\Users\Leon\Desktop\ZAVRSNI RAD FINAL\ZavrsniRadNodeApp\ZavrsniRadNodeApp\bin\Microsoft.NodejsTools.WebRole.dll
